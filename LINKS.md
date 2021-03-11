@@ -19,9 +19,9 @@
 - [🏢 Business](#-business)
 
 ## 🖼 Banco de imagens gratuitas
-* [500px](https://500px.com/creativecommons){:target="_blank"} - Banco de imagens gratuitas
-* [Burst](https://pt.shopify.com/burst){:target="_blank"} - Plataforma de imagens do serviço de ecommerce Shopify
-* [Cupcake](http://cupcake.nilssonlee.se/){:target="_blank"} - Imagens gratuitas para uso comercial
+* [500px](https://500px.com/creativecommons){"_blank"} - Banco de imagens gratuitas
+* [Burst](https://pt.shopify.com/burst){"_blank"} - Plataforma de imagens do serviço de ecommerce Shopify
+* [Cupcake](http://cupcake.nilssonlee.se/){"_blank"} - Imagens gratuitas para uso comercial
 * [DrawKIT](https://www.drawkit.io/) - Ilustrações para qualquer um usar
 * [FlatIcon](https://www.flaticon.com) - Banco de ícones vetoriais
 * [Flickr](https://flickr.com/) - Rede social de fotógrafos
